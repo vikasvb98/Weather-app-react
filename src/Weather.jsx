@@ -8,8 +8,8 @@ const Weather = () => {
   const [isLoading, setIsLoading] = useState(true);
 
   const api = {
-    key: '35bac4c9109a2f403e8f7c8bd6afd145',
-    base: 'https://api.openweathermap.org/data/2.5/',
+    key: YOUR_API_KEY,
+    base: YOUR_API_BASE,
   };
 
   useEffect(() => {
