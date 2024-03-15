@@ -23,6 +23,11 @@ Getting Started
 Usage
   Enter a city name in the search box and press Enter to fetch the current weather conditions for that city.
   Alternatively, allow the app to access your current location to fetch the weather automatically.
+![w2](https://github.com/vikasvb98/Weather-app-react/assets/49707580/b305219e-a0bb-4ac9-acce-653b6e899f43)
+
+![w1](https://github.com/vikasvb98/Weather-app-react/assets/49707580/b5cba8e5-129a-440b-8a3e-ccbc90ceaa83)
+
+![w3](https://github.com/vikasvb98/Weather-app-react/assets/49707580/16ae86da-9ace-45a3-8e75-c0ac9c24a0be)
 
 
 created by Vikas Bunkar.
